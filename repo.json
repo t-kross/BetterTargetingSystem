@@ -1,0 +1,29 @@
+{
+  "Author": "T-Kross",
+  "Name": "Better Targeting System For All",
+  "Punchline": "A more intelligent targeting system for the game which also includes new keybinds.",
+  "Description": "A more intelligent targeting system for the game which also includes new keybinds.",
+  "InternalName": "Better Targeting System For All",
+  "AssemblyVersion": "0.0.12.0",
+  "TestingAssemblyVersion": "0.0.12.0",
+  "RepoUrl": "https://github.com/t-kross/BetterTargetingSystem",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 11,
+  "TestingDalamudApiLevel": 11,
+  "IsHide": "False",
+  "IsTestingExclusive": "False",
+  "DownloadCount": 0,
+  "LastUpdate": 0,
+  "LoadPriority": 0,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "DownloadLinkInstall": "https://github.com/t-kross/BetterTargetingSystem/releases/download/0.0.12.0/BetterTargetingSystem.zip",
+  "DownloadLinkTesting": "https://github.com/t-kross/BetterTargetingSystem/releases/download/0.0.12.0/BetterTargetingSystem.zip",
+  "DownloadLinkUpdate": "https://github.com/t-kross/BetterTargetingSystem/releases/download/0.0.12.0/BetterTargetingSystem.zip",
+  "IconUrl": "https://raw.githubusercontent.com/t-kross/BetterTargetingSystem/refs/heads/master/BetterTargetingSystem/images/icon.png",
+  "Tags": [
+    "Tab",
+    "Target",
+    "Targeting"
+  ]
+}
